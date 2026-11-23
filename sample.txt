@@ -1,8 +1,1 @@
-Admin	            admin01	    Admin@123
-Admin	            admin02	    Admin@123
-Technician	        tech01	    Tech@123
-Technician	        tech02	    Tech@123
-Employee	        employee01	Employee@123
-Employee	        employee02	Employee@123
-Employee	        employee03	Employee@123
-Employee	        employee04	Employee@123
+This is asset management project .
